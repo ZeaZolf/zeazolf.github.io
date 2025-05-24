@@ -1,0 +1,13 @@
+body {
+    background: black;
+
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
